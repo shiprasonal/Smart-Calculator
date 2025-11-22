@@ -22,6 +22,7 @@ Open the calculator in any browser and perform basic arithmetic operations like 
 
 ## Contributing
 Contributions are welcome. Please feel free to submit a Pull Request.
+
 Created by Shipra Sonal
 
 
