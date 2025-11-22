@@ -15,7 +15,7 @@ This calculator supports basic arithmetic operations and provides a clean & resp
 - JavaScript
 
 ## Installation
-Clone the repository
+Clone the repository bash git clone https://github.com/shiprasonal/Smart-Calculator.git and open index.html in your web browser.
 
 ## Usage
 Open the calculator in any browser and perform basic arithmetic operations like addition, subtraction, multiplication, and division.
